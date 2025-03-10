@@ -1,2 +1,0 @@
-# lightbright
-# Lightbrightapp
